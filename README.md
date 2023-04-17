@@ -2,14 +2,14 @@
 <html lang="en">
   <body>
     <h1>Lauren Matthews </h1>
-    <p>
-      <b>I'm a Sophmore in Computer Information Science at Florida A&M University. I am motivated and eager for opportunities to learn and devolop my skills in the Computer Science field!</b>
-    </p>
+    <p><b>I'm a Sophmore in Computer Information Science at Florida A&M University. I am motivated and eager for opportunities to learn and devolop my skills in the Computer Science field!</b></p>
     <h3>Skills</h3>
     <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <br><br><p><h3>Projects</h3></p>
+  
   </body>
 </html>
   
