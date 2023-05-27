@@ -8,8 +8,8 @@
     <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
         <br><br><p><h3>Currently Working On</h3></p>
-       <b> Creating user-defined functions/methods to input and manipulate information in multidimensional arrays in C++. </b>
-       <p><b> Creating basic games using if else statemens and loops in Python. </b></p>
+       <ul><li><b> Creating user-defined functions/methods to input and manipulate information in multidimensional arrays in C++. </b></li></ul>
+       <ul><li><b> Creating basic games using if else statemens and loops in Python. </b></li></ul>
   
 <!--
 **laurenmatt14151/laurenmatt14151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
