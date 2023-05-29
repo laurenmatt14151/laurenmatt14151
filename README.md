@@ -1,5 +1,5 @@
 <h1>Lauren Matthews </h1>
-<p><b>I'm a Sophmore in Computer Information Science at Florida A&M University. I am motivated and eager for opportunities to learn and devolop my skills in the Computer Science field!</b></p>
+<p><b>I'm a Junior in Computer Information Science at Florida A&M University. I am motivated and eager for opportunities to learn and devolop my skills in the Computer Science field!</b></p>
     <h3>Skills</h3>
     <img align="left" alt="HTML" width="40px" style="padding: 15px;"                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img align="left" alt="HTML" width="40px" style="padding: 15px;"
