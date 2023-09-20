@@ -7,7 +7,7 @@
     <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="left" alt="HTML" width="40px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
         <br><br><p><h3>Currently Working On</h3></p>
-       <ul><li><b> Training a dataset to create high quality deepfakes using the FaceSwap Application </b></li></ul>
+       <ul><li><b> Training a dataset to create high quality deepfakes using a deepfake software in Python, FaceSwap </b></li></ul>
        <ul><li><b> Researching deepfake detection algorithms in Python </b></li></ul>
        <ul><li><b> Creating user-defined functions/methods to input and manipulate information in multidimensional arrays in C++. </b></li></ul>
   
